@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kireetiburra
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html and c language
-- 💞️ I’m looking to collaborate on software development
 - 📫 you can contact me with my mail id:kireetiburra@gmail.com
 
 <!---
